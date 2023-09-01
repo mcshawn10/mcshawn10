@@ -6,10 +6,8 @@ Below I showcase my best work so far.
 Strongly interested in computer vision's ability to benefit humanity.
 
 
-Hope you like what you see, more projects on the way. please reach me at my contacts below:
+Hope you like what you see, more projects on the way.
 
-Email: shawnmcneill10@gmail.com
-LinkedIn: www.linkedin.com/in/shawn-mcneill-b669721a5
 
 <!---
 mcshawn10/mcshawn10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
